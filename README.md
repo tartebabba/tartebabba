@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey, I'm Jez! 👋
 
-<!--
-**tartebabba/tartebabba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Always Curious, Forever Hungry.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineer based in Yorkshire, passionate about building impactful products. 
+
+Always eager to learn, build and solve problems.
+
+---
+
+🔭 I’m currently working on building small projects to improve my programming skills, and actively seeking opportunities to gain real-world engineering experience and collaborate with other programmers.
+
+- 🌱 I’m currently focussing on React and Next.js, with Python in the pipeline in the next coming months.
+
+## Find me elsewhere
+- [My personal website (V1)](https://www.jezpie.dev/)
+- [My LinkedIn](https://www.linkedin.com/in/jezpiedad/)
